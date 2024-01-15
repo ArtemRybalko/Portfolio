@@ -2,8 +2,6 @@
 
 Here presented some projects of mine. (описание на русском ниже)
 
-&nbsp;
-
 | Project name| Description | Stack |
 | ----------- | ----------- | ----------- |
 | Search of non-optimal user tariffs for telecom provider | Active clients of the telecom provider on non-optimal tariffs were found and identified, optimal ones were selected for them. The change in total and average customer revenue was calculated with breaking down by tariff, the difference in customer retention was also examined. | Python, Pandas, Matplotlib, SciPy, Tableau, decomposition, statistical hypothesis testing |
@@ -13,13 +11,9 @@ Here presented some projects of mine. (описание на русском ни
 
 &nbsp;
 
-&nbsp;
-
 # Портфолио
 
 Здесь представлены некоторые мои проекты.
-
-&nbsp;
 
 | Название проекта | Описание | Стек |
 | ----------- | ----------- | ----------- |
