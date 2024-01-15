@@ -2,6 +2,8 @@
 
 Here presented some projects of mine. (описание на русском ниже)
 
+&nbsp;
+
 | Project name| Description | Stack |
 | ----------- | ----------- | ----------- |
 | Search of non-optimal user tariffs for telecom provider | Active clients of the telecom provider on non-optimal tariffs were found and identified, optimal ones were selected for them. The change in total and average customer revenue was calculated with breaking down by tariff, the difference in customer retention was also examined. | Python, Pandas, Matplotlib, SciPy, Tableau, decomposition, statistical hypothesis testing |
@@ -9,10 +11,16 @@ Here presented some projects of mine. (описание на русском ни
 | A/B-test user-processing and analysis | A/B testing was carried out in the online store in connection with the implementation of an improved recommendation system. The correctness of group recruitment was checked, event funnels were built and analyzed, and the results of A/B testing were evaluated. | Python, Pandas, Matplotlib, SciPy, A/B-testing |
 | Moscow catering establishments market research to make a decision on opening a new establishment | A market research was prepared based on open data about public catering establishments in Moscow, the data obtained was visualized. Based on the data, a location was selected to open a new coffee shop. The seaborn and plotly libraries were used for plotting. | Python, Pandas, Matplotlib, Seaborn, Plotly, data visualization |
 
+&nbsp;
+
+&nbsp;
 
 # Портфолио
 
 Здесь представлены некоторые мои проекты.
+
+&nbsp;
+
 | Название проекта | Описание | Стек |
 | ----------- | ----------- | ----------- |
 | Поиск клиентов телеком провайдера на не оптимальных тарифах | Найдены и выделены активные клиенты телеком провайдера на не оптимальных тарифах и выбраны для них оптимальные. Посчитано изменение общей и средней выручки заказчика в разбивке по тарифам, а также исследована разница в удержании клиентов. | Python, Pandas, Matplotlib, SciPy, Tableau, декомпозиция, проверка статистических гипотез |
