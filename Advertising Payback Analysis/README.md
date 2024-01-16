@@ -1,6 +1,7 @@
 # Рекламная отдача мобильного приложения и поиск причин убытков
 
-ссылки
+[HTML (Yandex Disk)](https://disk.yandex.ru/d/tUulgvPjWyT8vw)
+[ipynb (Github)](https://github.com/ArtemRybalko/Portfolio/blob/master/Advertising%20Payback%20Analysis/5_procrastinatepro_project-Copy1.ipynb)
 
 ## Сферы деятельности
 
