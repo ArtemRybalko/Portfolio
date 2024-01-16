@@ -1,16 +1,3 @@
-# Portfolio
-
-Here presented some projects of mine. (описание на русском ниже)
-
-| Project name| Description | Stack |
-| ----------- | ----------- | ----------- |
-| Search of non-optimal user tariffs for telecom provider | Active clients of the telecom provider on non-optimal tariffs were found and identified, optimal ones were selected for them. The change in total and average customer revenue was calculated with breaking down by tariff, the difference in customer retention was also examined. | Python, Pandas, Matplotlib, SciPy, Tableau, decomposition, statistical hypothesis testing |
-| Advertising payback analysis of an app and search for a cause of losses | Data analysis for ProcrastinatePRO+ app was carried out. Various product metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. Previously written functions for calculating metrics were used. The correct conclusions were drawn based on the data obtained. | Python, Pandas, Matplotlib, Seaborn, cohort analysis, unit-economics, product metrics |
-| A/B-test user-processing and analysis | A/B testing was carried out in the online store in connection with the implementation of an improved recommendation system. The correctness of group recruitment was checked, event funnels were built and analyzed, and the results of A/B testing were evaluated. | Python, Pandas, Matplotlib, SciPy, A/B-testing |
-| Moscow catering establishments market research to make a decision on opening a new establishment | A market research was prepared based on open data about public catering establishments in Moscow, the data obtained was visualized. Based on the data, a location was selected to open a new coffee shop. The seaborn and plotly libraries were used for plotting. | Python, Pandas, Matplotlib, Seaborn, Plotly, data visualization |
-
-&nbsp;
-
 # Портфолио
 
 Здесь представлены некоторые мои проекты.
