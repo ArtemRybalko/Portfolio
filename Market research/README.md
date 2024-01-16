@@ -1,6 +1,6 @@
 # Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 
-ссылки
+[HTML (Yandex Disk)](https://disk.yandex.ru/d/BwyeSiyKFlGLZQ); [ipynb (Github)](https://github.com/ArtemRybalko/Portfolio/blob/master/Market%20research/8_coffeeshop_project-Copy1.ipynb).
 
 ## Сферы деятельности
 
