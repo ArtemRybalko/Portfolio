@@ -1,6 +1,8 @@
 # Отбор пользователей и анализ A/B-теста
 
-ссылки
+[HTML (Yandex Disk)](https://disk.yandex.ru/d/WidH4iPE4UPHHQ) [ipynb (Github)](https://github.com/ArtemRybalko/Portfolio/blob/master/AB%20Test/10_ABtest_user_prep_project-Copy1.ipynb)*
+
+\* Github не отображает графики Plotly. Для просмотра полноценного проекта рекомендую открывать HTML версию.
 
 ## Сферы деятельности
 
