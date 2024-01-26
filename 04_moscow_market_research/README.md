@@ -1,7 +1,7 @@
 # Исследования рынка общепита в Москве
 
 [HTML (Yandex Disk)](https://disk.yandex.ru/d/BwyeSiyKFlGLZQ)
-[ipynb (Github)](https://github.com/ArtemRybalko/Portfolio/blob/master/Market%20research/8_coffeeshop_project-Copy1.ipynb)*
+[ipynb (Github)](https://github.com/ArtemRybalko/Yandex_practicum_projects/blob/master/04_moscow_market_research/8_coffeeshop_project-Copy1.ipynb)*
 
 \* Github не отображает графики Plotly. Для просмотра полноценного проекта рекомендую открывать HTML версию.
 
