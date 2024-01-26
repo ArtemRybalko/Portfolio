@@ -1,7 +1,7 @@
 # Рекламная отдача и поиск причин убытков
 
 [HTML (Yandex Disk)](https://disk.yandex.ru/d/tUulgvPjWyT8vw)
-[ipynb (Github)](https://github.com/ArtemRybalko/Portfolio/blob/master/Advertising%20Payback%20Analysis/5_procrastinatepro_project-Copy1.ipynb)
+[ipynb (Github)](https://github.com/ArtemRybalko/Yandex_practicum_projects/blob/master/02_advertising_payback/5_procrastinatepro_project-Copy1.ipynb)
 
 ## Сферы деятельности
 
