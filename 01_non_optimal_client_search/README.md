@@ -1,7 +1,7 @@
 # Поиск клиентов с не оптимальными тарифами
 
 [HTML (Yandex Disk)](https://disk.yandex.ru/d/Jra8Xb3DpyWvzg)
-[ipynb (Github)](https://github.com/ArtemRybalko/Portfolio/blob/master/Telecom%20user%20search/9_telecom_project-Copy1.ipynb)*
+[ipynb (Github)](https://github.com/ArtemRybalko/Yandex_practicum_projects/blob/master/01_non_optimal_client_search/9_telecom_project-Copy1.ipynb)*
 
 \* Github не отображает графики Plotly. Для просмотра полноценного проекта рекомендую открывать HTML версию.
 
